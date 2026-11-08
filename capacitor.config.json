@@ -1,0 +1,11 @@
+{
+  "appId": "com.hadafi.app",
+  "appName": "هدفي",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hadafi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "هدفي — متابعة الأهداف المالية",
+  "scripts": {
+    "build": "echo 'No build step for static site'"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/android": "^8.0.0"
+  }
+}
